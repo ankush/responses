@@ -2,6 +2,8 @@
 .coverage
 .DS_Store
 .idea
+.env
+venv
 *.db
 *.egg-info
 *.pyc
@@ -9,4 +11,6 @@
 /dist
 /build
 /.cache
+/.pytest_cache
 /.tox
+/.artifacts
